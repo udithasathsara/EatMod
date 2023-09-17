@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056169636788",
+    "firebase_url": "https://eatmo-9426e-default-rtdb.firebaseio.com",
+    "project_id": "eatmo-9426e",
+    "storage_bucket": "eatmo-9426e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056169636788:android:8f8451454803099aafb8e1",
+        "android_client_info": {
+          "package_name": "com.example.eatmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056169636788-1e955kiagcrlcm5mr8s100ipq2m09j3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eatmo",
+            "certificate_hash": "58d73f78b730acfbe768c584fdb6e480c720f6df"
+          }
+        },
+        {
+          "client_id": "1056169636788-bg3rsveeqkoao3q2ota3idu9flm790mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsiBu5kvjrI5t22lUTLU0oZDRBzYQH0R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056169636788-bg3rsveeqkoao3q2ota3idu9flm790mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">EatMo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Colombo</item>
+        <item>Kalutara</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Fried Rice</item>
+        <item>Mixed Rice</item>
+        <item>Nasi Guorang</item>
+        <item>Mongolian Rice</item>
+        <item>Thai Rice</item>
+        <item>Sigapporre Rice</item>
+        <item>Egg Kottu</item>
+        <item>Fish Kottu</item>
+        <item>Chicken Kottu</item>
+        <item>Egg Parata</item>
+        <item>Parata</item>
+        <item>Gulab Jamun</item>
+        <item>Cheese Kottu</item>
+        <item>Masala Wade</item>
+        <item>Palak Paneer</item>
+        <item>Sausage Burger</item>
+        <item>Those</item>
+        <item>Paper Those</item>
+        <item>Biryani</item>
+        <item>Fish Burger</item>
+        <item>Chicken Burger</item>
+        <item>Dum Biryani</item>
+        <item>Chicken roti</item>
+        <item>Lasagne</item>
+        <item>Samosa</item>
+        <item>Rolls</item>
+        <item>Club Sandwich</item>
+        <item>Submarine</item>
+        <item>Gravy</item>
+        <item>Beef Curry</item>
+        <item>Mix Vegetable</item>
+        <item>Pizza</item>
+        <item>Pork Curry</item>
+        <item>Spicy Rice</item>
+        <item>Vegetable Roti</item>
+        <item>Egg Curry</item>
+        <item>Develled Fish</item>
+        <item>Egg Salad</item>
+        <item>Dum chicken</item>
+        <item>Chicken Biryni</item>
+    </string-array>
+</resources>
